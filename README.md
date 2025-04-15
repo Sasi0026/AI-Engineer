@@ -1,8 +1,8 @@
 # AI-Engineering
 # 🚀 AI Engineering Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/AI-Engineer?style=social)](https://github.com/yourusername/AI-Engineer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/AI-Engineer?style=social)](https://github.com/yourusername/AI-Engineer/network/members)
+![GitHub stars](https://img.shields.io/github/stars/Sasi0026/AI-Engineer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Sasi0026/AI-Engineer?style=social)
 [![GitHub watchers](https://img.shields.io/github/watchers/yourusername/AI-Engineer?style=social)](https://github.com/yourusername/AI-Engineer/watchers)
 [![GitHub license](https://img.shields.io/github/license/yourusername/AI-Engineer)](https://github.com/yourusername/AI-Engineer/blob/main/LICENSE)
 
